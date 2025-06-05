@@ -1,9 +1,9 @@
 ---
-name: "[Feature] 새 기능 요청"
-about: "새로 만든 기능이나 개선할 점을 간단하게 설명해주세요."
-title: "[Feature] "
-labels: ["feature"]
-assignees: []
+name: Feature Request
+about: 새로운 기능 요청할 때 사용하세요
+title: "[Feature]"
+labels: feature
+assignees: ''
 ---
 
 ## 기능 설명
