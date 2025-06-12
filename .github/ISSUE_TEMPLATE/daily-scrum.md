@@ -27,9 +27,6 @@ assignees: []
 ### Cart-api
 - [ ] 
 
-### CI/CD
-- [ ] 
-
 ---
 
 ## 🔧 오늘 할 일 (What I will do today)
