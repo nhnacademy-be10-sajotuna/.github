@@ -1,7 +1,7 @@
 name: "🗓️ Daily Task"
 description: "일일 작업 기록용 이슈"
 title: "Daily Task - YYYY-MM-DD"
-labels: ["daily", "task"]
+labels: ["스크럼"]
 body:
   - type: markdown
     attributes:
