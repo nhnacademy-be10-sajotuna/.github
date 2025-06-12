@@ -1,46 +1,50 @@
-name: "🗓️ Daily Task"
-description: "일일 작업 기록용 이슈"
-title: "Daily Task - YYYY-MM-DD"
+---
+name: "\U0001F4C5 Daily Task"
+about: "하루 작업을 기록하는 이슈"
+title: "🗓️ Daily Task - YYYY-MM-DD"
 labels: ["스크럼"]
-body:
-  - type: markdown
-    attributes:
-      value: |
-        ## ✅ 어제 한 일 (What I did yesterday)
+assignees: []
 
-        ### Order-api
-        - [ ]
+---
 
-        ### Account-api
-        - [ ]
+## 🗓️ 날짜
+- YYYY-MM-DD
 
-        ### Review-api
-        - [ ]
+## ✅ 어제 한 일 (What I did yesterday)
 
-        ### Book-api
-        - [ ]
+### Order-api
+- [ ] 
 
-        ### Cart-api
-        - [ ]
+### Account-api
+- [ ] 
 
-        ### CI/CD
-        - [ ]
+### Review-api
+- [ ] 
 
-        ---
+### Book-api
+- [ ] 
 
-        ## 🔧 오늘 할 일 (What I will do today)
+### Cart-api
+- [ ] 
 
-        ### Order-api
-        - [ ]
+### CI/CD
+- [ ] 
 
-        ### Account-api
-        - [ ]
+---
 
-        ### Review-api
-        - [ ]
+## 🔧 오늘 할 일 (What I will do today)
 
-        ### Book-api
-        - [ ]
+### Order-api
+- [ ] 
 
-        ### Cart-api
-        - [ ]
+### Account-api
+- [ ] 
+
+### Review-api
+- [ ] 
+
+### Book-api
+- [ ] 
+
+### Cart-api
+- [ ] 
