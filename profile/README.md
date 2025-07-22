@@ -89,7 +89,7 @@
 
 <br>
 
-## 🏛️ 아키텍처
+## 🏛️ 시스템 아키텍처
 
 ![아키텍처 다이어그램](../nhn-team04-System-Architecture.png)
 
