@@ -103,13 +103,13 @@
 
 ## 협업 방식
 
-![이슈 생성] (../createIssue.png)
+![이슈 생성](../createIssue.png)
 
-![이슈 관리] (../issue.png)
+![이슈 관리](../issue.png)
 
-![pr] (../pr.png)
+![pr](../pr.png)
 
-![코드 리뷰] (../codereview.png)
+![코드 리뷰](../codereview.png)
 
-![승인] (../approve.png)
+![승인](../approve.png)
 
