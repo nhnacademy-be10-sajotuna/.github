@@ -102,14 +102,18 @@
 
 
 ## 협업 방식
-
+1. 이슈 생성
 ![이슈 생성](../createIssue.png)
 
+2. 이슈 관리
 ![이슈 관리](../issue.png)
 
+3. pr 작성
 ![pr](../pr.png)
 
+4. 코드 리뷰
 ![코드 리뷰](../codereview.png)
 
+5. 2명 승인 시 머지 가능
 ![승인](../approve.png)
 
