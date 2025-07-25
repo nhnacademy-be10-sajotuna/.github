@@ -100,3 +100,8 @@
 
 ![아키텍처 다이어그램](../nhn-team04-System-Architecture.png)
 
+
+## 협업 방식
+
+![이슈 관리] ()
+
