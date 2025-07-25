@@ -101,7 +101,16 @@
 ![아키텍처 다이어그램](../nhn-team04-System-Architecture.png)
 
 
+## 🧑‍💻 배포 과정
+
+![CI/CD 다이어그램](../cicd.png)
+
+- Git Flow 전략으로 각자 dev, feature/* 브랜치로 나눠 개발했습니다.
+- merge가 되면 Github Action을 이용하여 자동 배포를 했습니다.
+- 배포 시 Blue/Green 방식으로 무중단 배포를 진행했습니다.
+
 ## 🤝 협업 방식
+
 1. 이슈 생성
 ![이슈 생성](../createIssue.png)
 
@@ -117,7 +126,4 @@
 5. 2명 승인 시 머지 가능
 ![승인](../approve.png)
 
-## 🧑‍💻 CI/CD
-
-![CI/CD 다이어그램](../cicd.png)
 
